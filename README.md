@@ -1,0 +1,2 @@
+Pliki z ZST
+# RepoZST
